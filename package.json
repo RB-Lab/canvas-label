@@ -1,0 +1,27 @@
+{
+  "name": "canvas-label",
+  "version": "0.0.1",
+  "description": "Text labels with css-alike styles to draw on canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RB-Lab/canvas-label.git"
+  },
+  "keywords": [
+    "canvas",
+    "styles",
+    "text",
+    "text",
+    "label"
+  ],
+  "author": "RB-Lab <rb@rblab.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RB-Lab/canvas-label/issues"
+  },
+  "homepage": "https://github.com/RB-Lab/canvas-label#readme",
+  "dependencies": {}
+}
