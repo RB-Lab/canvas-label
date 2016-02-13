@@ -1,8 +1,6 @@
 # Canvas Label
 ### Geometry type for [canvas-tree](https://www.npmjs.com/package/canvas-tree)
 
-Use it with Browserify or Webpack.
-
 #### Installation
 
 ```bash
