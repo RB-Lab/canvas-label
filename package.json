@@ -1,6 +1,6 @@
 {
   "name": "canvas-label",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Geometry type for canvas-tree, representing text label",
   "main": "lib/index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "eslint-config-airbnb": "^5.0.0"
   },
   "dependencies": {
-    "text-height": "^1.0.1",
+    "text-height": "^1.0.2",
     "text-width": "^1.2.0"
   }
 }
